@@ -1,6 +1,6 @@
 # Predicting-Free-Trial-Conversion-for-Enhanced-Customer-Acquisition-and-Revenue-Growth
 
-# Predicting Free Trial Conversion for Enhanced Customer Acquisition and Revenue Growth
+
 
 ## Table of Contents
 - [Project Overview](#project-overview)
